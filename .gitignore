@@ -1,0 +1,14 @@
+# 凭据与数据文件 —— 绝不提交！
+accounts.txt
+keys_full.json
+*_cookie.txt
+*_key.txt
+data.json
+*.bak
+
+# Python
+__pycache__/
+*.pyc
+
+# 系统
+.DS_Store
